@@ -1,0 +1,4 @@
+node_modules
+.turbo
+
+teams/team-job/dist/fragments/recommendation/index.js
