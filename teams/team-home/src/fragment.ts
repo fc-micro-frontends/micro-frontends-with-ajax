@@ -25,7 +25,5 @@ export async function loadFragment(root: HTMLElement) {
 
     // 에러 화면을 띄운다.
     root.innerHTML = `<div class="error">에러입니당</div>`;
-  } finally {
-    root.style.display = "flex";
   }
 }

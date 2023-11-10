@@ -1,4 +1,4 @@
-#job-fragment-recommendation {
+#jobs-fragment-recommendation {
   width: 400px;
   height: 220px;
   background-color: white;
@@ -6,18 +6,18 @@
   color: black;
 }
 
-#job-fragment-recommendation h2 {
+#jobs-fragment-recommendation h2 {
   margin: 0;
   padding: 20px;
 }
 
-.recommendations {
+#jobs-fragment-recommendation .recommendations {
   display: flex;
   flex-direction: column;
   gap: 2px;
 }
 
-.recommendations div {
+#jobs-fragment-recommendation .recommendations div {
   display: flex;
   flex-direction: row;
   justify-content: space-between;

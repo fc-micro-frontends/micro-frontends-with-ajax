@@ -59,13 +59,13 @@ h1 {
   text-align: center;
 }
 
-#team-job-recommendation {
+#team-jobs-recommendation {
   width: 400px;
   height: 220px;
   background-color: white;
   border-radius: 10px;
 }
 
-#team-job-recommendation .error {
+#team-jobs-recommendation .error {
   color: black;
 }

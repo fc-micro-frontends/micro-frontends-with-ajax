@@ -9,9 +9,7 @@
 
 ➜ pnpm i
 
-➜ pnpm exec turbo build
-
-➜ pnpm -r run preview
+➜ pnpm exec turbo dev
 ```
 
 ## 따라하기 가이드
